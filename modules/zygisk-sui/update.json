@@ -1,0 +1,12 @@
+{
+  "timestamp": 1677075233.577939,
+  "versions": [
+    {
+      "timestamp": 1677075233.577939,
+      "version": "v12.7.2",
+      "versionCode": 300,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk-sui/v12.7.2_300.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk-sui/v12.7.2_300.md"
+    }
+  ]
+}

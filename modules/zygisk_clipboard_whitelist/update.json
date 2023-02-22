@@ -1,0 +1,12 @@
+{
+  "timestamp": 1677075233.577939,
+  "versions": [
+    {
+      "timestamp": 1677075233.577939,
+      "version": "v24",
+      "versionCode": 24,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_clipboard_whitelist/v24_24.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_clipboard_whitelist/v24_24.md"
+    }
+  ]
+}

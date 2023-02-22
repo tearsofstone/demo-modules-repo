@@ -1,0 +1,12 @@
+{
+  "timestamp": 1677075233.577939,
+  "versions": [
+    {
+      "timestamp": 1677075233.577939,
+      "version": "v2.4.0",
+      "versionCode": 20400,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/safetynet-fix/v2.4.0_20400.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/safetynet-fix/v2.4.0_20400.md"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "timestamp": 1677075233.577939,
+  "versions": [
+    {
+      "timestamp": 1677075233.577939,
+      "version": "v21",
+      "versionCode": 21,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_ifw_enhance/v21_21.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_ifw_enhance/v21_21.md"
+    }
+  ]
+}
