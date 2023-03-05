@@ -1,6 +1,6 @@
 {
   "name": "Sanmer Magisk Repo",
-  "timestamp": 1677077720.559005,
+  "timestamp": 1678030494.983937,
   "modules": [
     {
       "id": "busybox-ndk",
@@ -130,6 +130,19 @@
       "states": {
         "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/safetynet-fix/v2.4.0_20400.zip",
         "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/safetynet-fix/v2.4.0_20400.md"
+      }
+    },
+    {
+      "id": "zygiskksu",
+      "license": "GPL-3.0",
+      "name": "Zygisk on KernelSU",
+      "version": "v4-0.6.2 (66)",
+      "versionCode": 66,
+      "author": "Nullptr, 5ec1cff",
+      "description": "Run Zygisk on KernelSU.",
+      "states": {
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygiskksu/v4-0.6.2_(66)_66.zip",
+        "changelog": ""
       }
     }
   ]

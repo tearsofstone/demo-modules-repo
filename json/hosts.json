@@ -53,5 +53,10 @@
     "id": "safetynet-fix",
     "update_to": "https://raw.githubusercontent.com/kdrag0n/safetynet-fix/master/update.json",
     "license": "MIT"
+  },
+  {
+    "id": "zygiskksu",
+    "update_to": "https://github.com/Dr-TSNG/ZygiskOnKernelSU/releases/download/v4-0.6.2/Zygisk-on-KernelSU-v4-0.6.2-66-release.zip",
+    "license": "GPL-3.0"
   }
 ]
