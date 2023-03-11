@@ -30,16 +30,6 @@
     "license": ""
   },
   {
-    "id": "quickswitch",
-    "update_to": "https://raw.githubusercontent.com/skittles9823/QuickSwitch/master/QuickSwitch.json",
-    "license": ""
-  },
-  {
-    "id": "uperf",
-    "update_to": "https://github.com/yc9559/uperf/raw/master/version.json",
-    "license": "Apache-2.0"
-  },
-  {
     "id": "zygisk_ifw_enhance",
     "update_to": "https://github.com/Kr328/Riru-IFWEnhance/releases/latest/download/zygisk-ifw-enhance.json",
     "license": "GPL-3.0"

@@ -1,6 +1,6 @@
 {
   "name": "Sanmer Magisk Repo",
-  "timestamp": 1678030494.983937,
+  "timestamp": 1678539361.480115,
   "modules": [
     {
       "id": "busybox-ndk",
@@ -65,32 +65,6 @@
       "states": {
         "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk-sui/v12.7.2_300.zip",
         "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk-sui/v12.7.2_300.md"
-      }
-    },
-    {
-      "id": "quickswitch",
-      "license": "",
-      "name": "QuickSwitch",
-      "version": "v3.3.1",
-      "versionCode": 3310,
-      "author": "The Lawnchair team",
-      "description": "Quickstep enabler for supported launchers",
-      "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/quickswitch/v3.3.1_3310.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/quickswitch/v3.3.1_3310.md"
-      }
-    },
-    {
-      "id": "uperf",
-      "license": "Apache-2.0",
-      "name": "Uperf",
-      "version": "v3(22.09.04)",
-      "versionCode": 220904,
-      "author": "Matt Yang",
-      "description": "Userspace performance controller for android. Repo: https://github.com/yc9559/uperf/",
-      "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/uperf/v3(22.09.04)_220904.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/uperf/v3(22.09.04)_220904.md"
       }
     },
     {
