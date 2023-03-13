@@ -1,6 +1,6 @@
 {
   "name": "Sanmer Magisk Repo",
-  "timestamp": 1678539361.480115,
+  "timestamp": 1678715919.279244,
   "modules": [
     {
       "id": "busybox-ndk",
@@ -11,8 +11,8 @@
       "author": "osm0sis @ xda-developers",
       "description": "Static busybox binary for all Android architectures built with the NDK",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/busybox-ndk/1.34.1_13413.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/busybox-ndk/1.34.1_13413.md"
+        "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.34.1_13413.zip",
+        "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.34.1_13413.md"
       }
     },
     {
@@ -24,8 +24,8 @@
       "author": "osm0sis & Surge1223 @ xda-developers",
       "description": "Static ARM adb and fastboot binaries for Android built with the NDK",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/adb-ndk/1.0.41_104109.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/adb-ndk/1.0.41_104109.md"
+        "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104109.zip",
+        "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104109.md"
       }
     },
     {
@@ -37,8 +37,8 @@
       "author": "LSPosed Developers",
       "description": "\u3053\u308c\u3067\u52dd\u3063\u305f\u3068\u601d\u3046\u306a\u3088\u2015\u2015\u2015!!",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_shamiko/v0.6_(126)_126.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_shamiko/v0.6_(126)_126.md"
+        "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_shamiko/v0.6_(126)_126.zip",
+        "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_shamiko/v0.6_(126)_126.md"
       }
     },
     {
@@ -50,8 +50,8 @@
       "author": "LSPosed Developers",
       "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 13. Requires Magisk 24.0+ and Zygisk enabled.",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_lsposed/v1.8.6_(6712)_6712.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_lsposed/v1.8.6_(6712)_6712.md"
+        "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.8.6_(6712)_6712.zip",
+        "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.8.6_(6712)_6712.md"
       }
     },
     {
@@ -63,8 +63,8 @@
       "author": "Rikka",
       "description": "Modern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk-sui/v12.7.2_300.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk-sui/v12.7.2_300.md"
+        "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-sui/v12.7.2_300.zip",
+        "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-sui/v12.7.2_300.md"
       }
     },
     {
@@ -76,8 +76,8 @@
       "author": "Kr328",
       "description": "Allows Intent Firewall to filter results of queryIntent(Activities/Services) APIs.",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_ifw_enhance/v21_21.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_ifw_enhance/v21_21.md"
+        "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_ifw_enhance/v21_21.zip",
+        "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_ifw_enhance/v21_21.md"
       }
     },
     {
@@ -89,8 +89,8 @@
       "author": "Kr328",
       "description": "Allow apps access clipboard in background.",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_clipboard_whitelist/v24_24.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_clipboard_whitelist/v24_24.md"
+        "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_clipboard_whitelist/v24_24.zip",
+        "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_clipboard_whitelist/v24_24.md"
       }
     },
     {
@@ -102,8 +102,8 @@
       "author": "kdrag0n",
       "description": "A universal fix for SafetyNet and Play Integrity on Android 8\u201313 devices with hardware attestation.",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/safetynet-fix/v2.4.0_20400.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/safetynet-fix/v2.4.0_20400.md"
+        "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/safetynet-fix/v2.4.0_20400.zip",
+        "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/safetynet-fix/v2.4.0_20400.md"
       }
     },
     {
@@ -115,7 +115,7 @@
       "author": "Nullptr, 5ec1cff",
       "description": "Run Zygisk on KernelSU.",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygiskksu/v4-0.6.2_(66)_66.zip",
+        "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygiskksu/v4-0.6.2_(66)_66.zip",
         "changelog": ""
       }
     }
