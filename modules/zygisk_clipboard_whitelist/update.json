@@ -1,12 +1,13 @@
 {
-  "timestamp": 1677075233.577939,
+  "id": "zygisk_clipboard_whitelist",
+  "timestamp": 1679025505.129431,
   "versions": [
     {
-      "timestamp": 1677075233.577939,
+      "timestamp": 1679025505.129431,
       "version": "v24",
       "versionCode": 24,
-      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_clipboard_whitelist/v24_24.zip",
-      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk_clipboard_whitelist/v24_24.md"
+      "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_clipboard_whitelist/v24_24.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_clipboard_whitelist/v24_24.md"
     }
   ]
 }

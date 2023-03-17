@@ -1,12 +1,13 @@
 {
-  "timestamp": 1677075233.577939,
+  "id": "zygisk-sui",
+  "timestamp": 1679025505.129431,
   "versions": [
     {
-      "timestamp": 1677075233.577939,
+      "timestamp": 1679025505.129431,
       "version": "v12.7.2",
       "versionCode": 300,
-      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk-sui/v12.7.2_300.zip",
-      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-repo/main/modules/zygisk-sui/v12.7.2_300.md"
+      "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-sui/v12.7.2_300.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-sui/v12.7.2_300.md"
     }
   ]
 }
