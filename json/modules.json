@@ -1,6 +1,6 @@
 {
   "name": "Sanmer Magisk Repo",
-  "timestamp": 1679484619.317193,
+  "timestamp": 1679907384.666802,
   "modules": [
     {
       "id": "adb-ndk",
@@ -39,6 +39,19 @@
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/safetynet-fix/v2.4.0_20400.zip",
         "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/safetynet-fix/v2.4.0_20400.md"
+      }
+    },
+    {
+      "id": "zygisk-storage-isolation",
+      "license": "",
+      "name": "Zygisk - Enhanced mode for Storage Isolation",
+      "version": "v28.1.0",
+      "versionCode": 85,
+      "author": "Rikka",
+      "description": "Enable Enhanced mode for Storage Isolation. This module requires Magisk 24.0+ and Zygisk enabled.",
+      "states": {
+        "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-storage-isolation/v28.1.0_85.zip",
+        "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-storage-isolation/v28.1.0_85.md"
       }
     },
     {
