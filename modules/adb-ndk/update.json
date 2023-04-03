@@ -1,9 +1,9 @@
 {
   "id": "adb-ndk",
-  "timestamp": 1679025505.129431,
+  "timestamp": 1680541683.0,
   "versions": [
     {
-      "timestamp": 1679025505.129431,
+      "timestamp": 1680541683.0,
       "version": "1.0.41",
       "versionCode": 104109,
       "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104109.zip",

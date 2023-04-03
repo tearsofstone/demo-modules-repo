@@ -1,9 +1,9 @@
 {
   "id": "zygisk-storage-isolation",
-  "timestamp": 1679907384.666802,
+  "timestamp": 1679899057.0,
   "versions": [
     {
-      "timestamp": 1679907384.666802,
+      "timestamp": 1679899057.0,
       "version": "v28.1.0",
       "versionCode": 85,
       "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-storage-isolation/v28.1.0_85.zip",

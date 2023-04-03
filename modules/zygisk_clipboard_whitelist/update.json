@@ -1,9 +1,9 @@
 {
   "id": "zygisk_clipboard_whitelist",
-  "timestamp": 1679025505.129431,
+  "timestamp": 1675570123.0,
   "versions": [
     {
-      "timestamp": 1679025505.129431,
+      "timestamp": 1675570123.0,
       "version": "v24",
       "versionCode": 24,
       "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_clipboard_whitelist/v24_24.zip",
