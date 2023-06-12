@@ -1,6 +1,6 @@
 {
   "name": "Sanmer Magisk Repo",
-  "timestamp": 1686557889.487302,
+  "timestamp": 1686558677.162631,
   "modules": [
     {
       "id": "adb-ndk",
@@ -9,6 +9,7 @@
       "versionCode": 104111,
       "author": "osm0sis & Surge1223 @ xda-developers",
       "description": "Static ARM adb and fastboot binaries for Android built with the NDK",
+      "license": "",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104111.zip",
         "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104111.md"
@@ -21,6 +22,7 @@
       "versionCode": 13612,
       "author": "osm0sis @ xda-developers",
       "description": "Static busybox binary for all Android architectures built with the NDK",
+      "license": "",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13612.zip",
         "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13612.md"
@@ -33,6 +35,7 @@
       "versionCode": 20400,
       "author": "kdrag0n",
       "description": "A universal fix for SafetyNet and Play Integrity on Android 8\u201313 devices with hardware attestation.",
+      "license": "MIT",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/safetynet-fix/v2.4.0_20400.zip",
         "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/safetynet-fix/v2.4.0_20400.md"
@@ -45,6 +48,7 @@
       "versionCode": 85,
       "author": "Rikka",
       "description": "Enable Enhanced mode for Storage Isolation. This module requires Magisk 24.0+ and Zygisk enabled.",
+      "license": "",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-storage-isolation/v28.1.0_85.zip",
         "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-storage-isolation/v28.1.0_85.md"
@@ -57,6 +61,7 @@
       "versionCode": 300,
       "author": "Rikka",
       "description": "Modern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
+      "license": "GPL-3.0",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-sui/v12.7.2_300.zip",
         "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-sui/v12.7.2_300.md"
@@ -69,6 +74,7 @@
       "name": "Zygisk - Clipboard Whitelist",
       "author": "Kr328",
       "description": "Allow apps access clipboard in background.",
+      "license": "GPL-3.0",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_clipboard_whitelist/v24_24.zip",
         "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_clipboard_whitelist/v24_24.md"
@@ -81,6 +87,7 @@
       "name": "Zygisk - IFW Enhance",
       "author": "Kr328",
       "description": "Allows Intent Firewall to filter results of queryIntent(Activities/Services) APIs.",
+      "license": "GPL-3.0",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_ifw_enhance/v21_21.zip",
         "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_ifw_enhance/v21_21.md"
@@ -93,6 +100,7 @@
       "versionCode": 6712,
       "author": "LSPosed Developers",
       "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 13. Requires Magisk 24.0+ and Zygisk enabled.",
+      "license": "GPL-3.0",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.8.6_(6712)_6712.zip",
         "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.8.6_(6712)_6712.md"
@@ -105,6 +113,7 @@
       "versionCode": 174,
       "author": "LSPosed Developers",
       "description": "\u3053\u308c\u3067\u52dd\u3063\u305f\u3068\u601d\u3046\u306a\u3088\u2015\u2015\u2015!!",
+      "license": "",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_shamiko/v0.7.3_174.zip",
         "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_shamiko/v0.7.3_174.md"
@@ -117,6 +126,7 @@
       "versionCode": 73,
       "author": "Nullptr, 5ec1cff",
       "description": "Run Zygisk on KernelSU.",
+      "license": "GPL-3.0",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygiskksu/v4-0.6.4_(73)_73.zip",
         "changelog": ""
