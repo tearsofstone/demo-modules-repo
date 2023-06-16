@@ -1,9 +1,9 @@
 {
   "name": "Sanmer Magisk Repo",
-  "timestamp": 1686904323.144333,
+  "timestamp": 1686926645.837502,
   "metadata": {
-    "version": "1.0.0.0ca0d1f",
-    "versionCode": 240
+    "version": "1.0.0.9453bca",
+    "versionCode": 241
   },
   "modules": [
     {
