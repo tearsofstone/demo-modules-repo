@@ -1,6 +1,10 @@
 {
   "name": "Sanmer Magisk Repo",
-  "timestamp": 1686558677.162631,
+  "timestamp": 1686904323.144333,
+  "metadata": {
+    "version": "1.0.0.0ca0d1f",
+    "versionCode": 240
+  },
   "modules": [
     {
       "id": "adb-ndk",
