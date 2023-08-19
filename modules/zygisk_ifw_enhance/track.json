@@ -2,7 +2,8 @@
   "id": "zygisk_ifw_enhance",
   "update_to": "https://github.com/Kr328/Riru-IFWEnhance/releases/latest/download/zygisk-ifw-enhance.json",
   "license": "GPL-3.0",
-  "changelog": "",
+  "source": "https://github.com/Kr328/Riru-IFWEnhance.git",
+  "support": "https://github.com/Kr328/Riru-IFWEnhance/issues",
   "added": 1679025505.129431,
   "last_update": 1675569635.0,
   "versions": 1

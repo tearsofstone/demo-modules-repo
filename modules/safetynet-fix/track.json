@@ -2,7 +2,9 @@
   "id": "safetynet-fix",
   "update_to": "https://raw.githubusercontent.com/kdrag0n/safetynet-fix/master/update.json",
   "license": "MIT",
-  "changelog": "",
+  "source": "https://github.com/kdrag0n/safetynet-fix.git",
+  "support": "https://github.com/kdrag0n/safetynet-fix/issues",
+  "donate": "https://patreon.com/kdrag0n",
   "added": 1679025505.129431,
   "last_update": 1673286512.0,
   "versions": 1
