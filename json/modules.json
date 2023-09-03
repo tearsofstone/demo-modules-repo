@@ -2,14 +2,14 @@
   "name": "Sanmer Magisk Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1692457986.287424
+    "timestamp": 1693756724.970253
   },
   "modules": [
     {
       "id": "adb-ndk",
       "name": "ADB & Fastboot for Android NDK",
       "version": "1.0.41",
-      "versionCode": 104111,
+      "versionCode": 104113,
       "author": "osm0sis & Surge1223 @ xda-developers",
       "description": "Static ARM adb and fastboot binaries for Android built with the NDK",
       "track": {
@@ -23,18 +23,25 @@
       },
       "versions": [
         {
-          "timestamp": 1680541683.0,
-          "version": "1.0.41",
-          "versionCode": 104109,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104109.zip",
-          "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104109.md"
-        },
-        {
           "timestamp": 1686557746.0,
           "version": "1.0.41",
           "versionCode": 104111,
           "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104111.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104111.md"
+        },
+        {
+          "timestamp": 1693442224.0,
+          "version": "1.0.41",
+          "versionCode": 104112,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104112.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104112.md"
+        },
+        {
+          "timestamp": 1693751147.0,
+          "version": "1.0.41",
+          "versionCode": 104113,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104113.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104113.md"
         }
       ]
     },
@@ -42,7 +49,7 @@
       "id": "busybox-ndk",
       "name": "Busybox for Android NDK",
       "version": "1.36.1",
-      "versionCode": 13612,
+      "versionCode": 13613,
       "author": "osm0sis @ xda-developers",
       "description": "Static busybox binary for all Android architectures built with the NDK",
       "track": {
@@ -68,6 +75,13 @@
           "versionCode": 13612,
           "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13612.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13612.md"
+        },
+        {
+          "timestamp": 1693751259.0,
+          "version": "1.36.1",
+          "versionCode": 13613,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13613.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13613.md"
         }
       ]
     },
@@ -204,8 +218,8 @@
     {
       "id": "zygisk_lsposed",
       "name": "Zygisk - LSPosed",
-      "version": "v1.8.6 (6712)",
-      "versionCode": 6712,
+      "version": "v1.9.1 (6990)",
+      "versionCode": 6990,
       "author": "LSPosed Developers",
       "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 13. Requires Magisk 24.0+ and Zygisk enabled.",
       "track": {
@@ -224,6 +238,13 @@
           "versionCode": 6712,
           "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.8.6_(6712)_6712.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.8.6_(6712)_6712.md"
+        },
+        {
+          "timestamp": 1693379566.0,
+          "version": "v1.9.1 (6990)",
+          "versionCode": 6990,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.9.1_6990.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.9.1_6990.md"
         }
       ]
     },

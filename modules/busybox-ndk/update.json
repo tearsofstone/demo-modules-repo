@@ -15,6 +15,13 @@
       "versionCode": 13612,
       "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13612.zip",
       "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13612.md"
+    },
+    {
+      "timestamp": 1693751259.0,
+      "version": "1.36.1",
+      "versionCode": 13613,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13613.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13613.md"
     }
   ]
 }
