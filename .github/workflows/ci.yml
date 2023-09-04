@@ -25,8 +25,7 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    if: ${{ github.event_name == 'schedule' || startsWith(github.event.head_commit.message, '[test ci]') }}
-    
+    if: github.event_name == 'schedule' || startsWith(github.event.head_commit.message, '[sync]')
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -62,12 +61,11 @@ jobs:
           python util/cli.py check -I -U -E
 
       - name: Index and Push
-        if: ${{ github.event_name != 'pull_request' }}
+        if: github.event_name != 'pull_request‘
         run: |
           python util/cli.py index --push
           
       - name: Upload logs
-        if: success()
         uses: actions/upload-artifact@v3
         with:
           name: logs
@@ -75,7 +73,7 @@ jobs:
   
   build:
     runs-on: ubuntu-latest
-    if: ${{ github.event_name != 'pull_request' }}
+    if: github.event_name != 'pull_request'
     needs: sync
     steps:
       - name: Checkout
