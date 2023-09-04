@@ -61,7 +61,7 @@ jobs:
           python util/cli.py check -I -U -E
 
       - name: Index and Push
-        if: github.event_name != 'pull_request‘
+        if: github.event_name != 'pull_request'
         run: |
           python util/cli.py index --push
           
