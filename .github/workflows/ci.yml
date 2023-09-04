@@ -34,7 +34,7 @@ jobs:
           ref: ${{ github.ref }}
 
       - name: Checkout util
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: ya0211/magisk-modules-repo-util
           path: util
@@ -77,7 +77,9 @@ jobs:
     needs: sync
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
         
       - name: Setup Pages
         uses: actions/configure-pages@v3
