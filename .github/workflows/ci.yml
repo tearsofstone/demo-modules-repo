@@ -62,6 +62,7 @@ jobs:
           python util/cli.py check -I -U -E
 
       - name: Index and Push
+        if: ${{ github.event_name != 'pull_request' }}
         run: |
           python util/cli.py index --push
           
@@ -74,6 +75,7 @@ jobs:
   
   build:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'pull_request' }}
     needs: sync
     steps:
       - name: Checkout
