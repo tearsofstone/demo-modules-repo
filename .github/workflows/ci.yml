@@ -52,7 +52,6 @@ jobs:
         run: pip install -r util/requirements.txt
 
       - name: Sync
-        id: sync
         if: github.event_name == 'schedule' || startsWith(github.event.head_commit.message, '[sync]')
         run: |
           python util/cli.py sync
