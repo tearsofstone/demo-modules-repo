@@ -2,7 +2,7 @@
   "name": "Sanmer Magisk Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1693756724.970253
+    "timestamp": 1693813385.769835
   },
   "modules": [
     {
@@ -291,8 +291,8 @@
     {
       "id": "zygisksu",
       "name": "Zygisk on KernelSU",
-      "version": "v4-0.7.1 (89-release)",
-      "versionCode": 89,
+      "version": "v4-0.6.4 (73)",
+      "versionCode": 73,
       "author": "Nullptr, 5ec1cff",
       "description": "Run Zygisk on KernelSU.",
       "track": {
@@ -309,14 +309,7 @@
           "timestamp": 1679572814.0,
           "version": "v4-0.6.4 (73)",
           "versionCode": 73,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygiskksu/v4-0.6.4_(73)_73.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1687179483.0,
-          "version": "v4-0.7.1 (89-release)",
-          "versionCode": 89,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisksu/v4-0.7.1_89-release.zip",
+          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisksu/v4-0.6.4_(73)_73.zip",
           "changelog": ""
         }
       ]
