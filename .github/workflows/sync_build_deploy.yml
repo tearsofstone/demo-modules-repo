@@ -65,6 +65,12 @@ jobs:
         run: |
           python util/cli.py index --push
           
+      - name: Write to summary
+        run: |
+          python util/cli.py index --table > summary.md
+          echo "## Latest Version \n" >> $GITHUB_STEP_SUMMARY
+          echo "$(cat summary.md)" >> $GITHUB_STEP_SUMMARY
+          
       - name: Upload logs
         uses: actions/upload-artifact@v3
         with:
