@@ -22,6 +22,9 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+env:
+  IS_SYNC: ${{ github.event_name == 'schedule' || startsWith(github.event.head_commit.message, '[sync]') }}
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -52,24 +55,33 @@ jobs:
         run: pip install -r util/requirements.txt
 
       - name: Sync
-        if: github.event_name == 'schedule' || startsWith(github.event.head_commit.message, '[sync]')
+        if: env.IS_SYNC
         run: |
-          python util/cli.py sync
+          python util/cli.py sync --diff versions_diff.md
 
       - name: Check
         run: |
           python util/cli.py check -I -U -E
 
       - name: Index and Push
-        if: github.event_name == 'schedule' || startsWith(github.event.head_commit.message, '[sync]')
+        if: env.IS_SYNC
         run: |
           python util/cli.py index --push
-          
-      - name: Write to summary
+
+      - name: Write versions diff to summary
+        if: env.IS_SYNC
         run: |
-          python util/cli.py index --table > summary.md
-          echo "## Latest Version \n" >> $GITHUB_STEP_SUMMARY
-          echo "$(cat summary.md)" >> $GITHUB_STEP_SUMMARY
+          if [ -f versions_diff.md ]; then
+            echo "## Versions Diff" >> $GITHUB_STEP_SUMMARY
+            echo "$(cat versions_diff.md)" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+      - name: Write latest versions to summary
+        if: ! env.IS_SYNC
+        run: |
+          python util/cli.py index --table > latest_versions.md
+          echo "## Latest Versions" >> $GITHUB_STEP_SUMMARY
+          echo "$(cat latest_versions.md)" >> $GITHUB_STEP_SUMMARY
           
       - name: Upload logs
         uses: actions/upload-artifact@v3
