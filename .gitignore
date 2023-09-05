@@ -1,7 +1,11 @@
-__pycache__/
-.idea/
+# Local files
 local/
+
+# Log files
 log/
+
+# Util tools
 util/
 
+# MacOS
 .DS_Store
