@@ -55,7 +55,7 @@ jobs:
         run: pip install -r util/requirements.txt
 
       - name: Sync
-        if: env.IS_SYNC
+        if: ${{ env.IS_SYNC }}
         run: |
           python util/cli.py sync --diff versions_diff.md
 
@@ -64,12 +64,12 @@ jobs:
           python util/cli.py check -I -U -E
 
       - name: Index and Push
-        if: env.IS_SYNC
+        if: ${{ env.IS_SYNC }}
         run: |
           python util/cli.py index --push
 
       - name: Write versions diff to summary
-        if: env.IS_SYNC
+        if: ${{ env.IS_SYNC }}
         run: |
           if [ -f versions_diff.md ]; then
             echo "## Versions Diff" >> $GITHUB_STEP_SUMMARY
@@ -77,7 +77,7 @@ jobs:
           fi
           
       - name: Write latest versions to summary
-        if: ! env.IS_SYNC
+        if: ${{ !env.IS_SYNC }}
         run: |
           python util/cli.py index --table > latest_versions.md
           echo "## Latest Versions" >> $GITHUB_STEP_SUMMARY
