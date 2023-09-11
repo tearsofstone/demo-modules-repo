@@ -1,5 +1,6 @@
 {
   "id": "adb-ndk",
+  "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/update.json",
   "source": "https://github.com/Magisk-Modules-Repo/adb-ndk.git",
   "support": "https://is.gd/osm0_",

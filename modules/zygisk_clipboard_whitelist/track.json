@@ -1,5 +1,6 @@
 {
   "id": "zygisk_clipboard_whitelist",
+  "enable": true,
   "update_to": "https://github.com/Kr328/Riru-ClipboardWhitelist/releases/latest/download/zygisk-clipboard-whitelist.json",
   "license": "GPL-3.0",
   "source": "https://github.com/Kr328/Riru-ClipboardWhitelist.git",

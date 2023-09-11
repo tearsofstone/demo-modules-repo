@@ -1,5 +1,6 @@
 {
   "id": "zygisk_ifw_enhance",
+  "enable": true,
   "update_to": "https://github.com/Kr328/Riru-IFWEnhance/releases/latest/download/zygisk-ifw-enhance.json",
   "license": "GPL-3.0",
   "source": "https://github.com/Kr328/Riru-IFWEnhance.git",

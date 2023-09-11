@@ -1,5 +1,6 @@
 {
   "id": "zygisk-sui",
+  "enable": true,
   "update_to": "https://rikkaapps.github.io/release/sui_zygisk.json",
   "license": "GPL-3.0",
   "source": "https://github.com/RikkaApps/Sui.git",

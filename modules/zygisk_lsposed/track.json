@@ -1,5 +1,6 @@
 {
   "id": "zygisk_lsposed",
+  "enable": true,
   "update_to": "https://lsposed.github.io/LSPosed/release/zygisk.json",
   "license": "GPL-3.0",
   "homepage": "https://lsposed.org/",

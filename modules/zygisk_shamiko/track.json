@@ -1,5 +1,6 @@
 {
   "id": "zygisk_shamiko",
+  "enable": true,
   "update_to": "https://lsposed.github.io/releases/shamiko.json",
   "homepage": "https://lsposed.org/",
   "added": 1679025505.129431,
