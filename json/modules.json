@@ -2,7 +2,7 @@
   "name": "Sanmer Magisk Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1694439230.51265
+    "timestamp": 1694466220.733565
   },
   "modules": [
     {
@@ -49,7 +49,7 @@
       "id": "busybox-ndk",
       "name": "Busybox for Android NDK",
       "version": "1.36.1",
-      "versionCode": 13613,
+      "versionCode": 13614,
       "author": "osm0sis @ xda-developers",
       "description": "Static busybox binary for all Android architectures built with the NDK",
       "track": {
@@ -63,13 +63,6 @@
       },
       "versions": [
         {
-          "timestamp": 1680541591.0,
-          "version": "1.34.1",
-          "versionCode": 13413,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.34.1_13413.zip",
-          "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.34.1_13413.md"
-        },
-        {
           "timestamp": 1686557854.0,
           "version": "1.36.1",
           "versionCode": 13612,
@@ -82,6 +75,13 @@
           "versionCode": 13613,
           "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13613.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13613.md"
+        },
+        {
+          "timestamp": 1694466217.0,
+          "version": "1.36.1",
+          "versionCode": 13614,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13614.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13614.md"
         }
       ]
     },
