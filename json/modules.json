@@ -2,7 +2,7 @@
   "name": "Sanmer Magisk Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1696021416.413093
+    "timestamp": 1696107816.175891
   },
   "modules": [
     {
@@ -140,8 +140,8 @@
     {
       "id": "zygisk-sui",
       "name": "Zygisk - Sui",
-      "version": "v12.7.2",
-      "versionCode": 300,
+      "version": "v13.5.1",
+      "versionCode": 319,
       "author": "Rikka",
       "description": "Modern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
       "track": {
@@ -160,6 +160,13 @@
           "versionCode": 300,
           "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-sui/v12.7.2_300.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-sui/v12.7.2_300.md"
+        },
+        {
+          "timestamp": 1695131134.0,
+          "version": "v13.5.1",
+          "versionCode": 319,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-sui/v13.5.1_319.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk-sui/v13.5.1_319.md"
         }
       ]
     },
