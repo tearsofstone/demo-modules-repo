@@ -15,6 +15,13 @@
       "versionCode": 6990,
       "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.9.1_6990.zip",
       "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.9.1_6990.md"
+    },
+    {
+      "timestamp": 1697034252.0,
+      "version": "v1.9.2 (7024)",
+      "versionCode": 7024,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.9.2_7024.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.9.2_7024.md"
     }
   ]
 }

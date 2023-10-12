@@ -2,7 +2,7 @@
   "name": "Sanmer Magisk Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1697058213.495085
+    "timestamp": 1697144618.66113
   },
   "modules": [
     {
@@ -225,10 +225,10 @@
     {
       "id": "zygisk_lsposed",
       "name": "Zygisk - LSPosed",
-      "version": "v1.9.1 (6990)",
-      "versionCode": 6990,
+      "version": "v1.9.2 (7024)",
+      "versionCode": 7024,
       "author": "LSPosed Developers",
-      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 13. Requires Magisk 24.0+ and Zygisk enabled.",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1679025505.129431,
@@ -252,6 +252,13 @@
           "versionCode": 6990,
           "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.9.1_6990.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.9.1_6990.md"
+        },
+        {
+          "timestamp": 1697034252.0,
+          "version": "v1.9.2 (7024)",
+          "versionCode": 7024,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.9.2_7024.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_lsposed/v1.9.2_7024.md"
         }
       ]
     },
