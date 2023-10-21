@@ -2,7 +2,7 @@
   "name": "Sanmer Magisk Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1697835816.320714
+    "timestamp": 1697922217.953908
   },
   "modules": [
     {
@@ -265,8 +265,8 @@
     {
       "id": "zygisk_shamiko",
       "name": "Shamiko",
-      "version": "v0.7.3 (174)",
-      "versionCode": 174,
+      "version": "v0.7.4 (188)",
+      "versionCode": 188,
       "author": "LSPosed Developers",
       "description": "\u3053\u308c\u3067\u52dd\u3063\u305f\u3068\u601d\u3046\u306a\u3088\u2015\u2015\u2015!!",
       "track": {
@@ -280,13 +280,6 @@
       },
       "versions": [
         {
-          "timestamp": 1668657230.0,
-          "version": "v0.6 (126)",
-          "versionCode": 126,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_shamiko/v0.6_(126)_126.zip",
-          "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_shamiko/v0.6_(126)_126.md"
-        },
-        {
           "timestamp": 1680843186.0,
           "version": "v0.7 (161)",
           "versionCode": 161,
@@ -299,6 +292,13 @@
           "versionCode": 174,
           "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_shamiko/v0.7.3_174.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_shamiko/v0.7.3_174.md"
+        },
+        {
+          "timestamp": 1697910921.0,
+          "version": "v0.7.4 (188)",
+          "versionCode": 188,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_shamiko/v0.7.4_188.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_shamiko/v0.7.4_188.md"
         }
       ]
     },
