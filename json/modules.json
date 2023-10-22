@@ -2,7 +2,7 @@
   "name": "Sanmer Magisk Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1697922217.953908
+    "timestamp": 1698008611.261479
   },
   "modules": [
     {
@@ -173,8 +173,8 @@
     {
       "id": "zygisk_clipboard_whitelist",
       "name": "Zygisk - Clipboard Whitelist",
-      "version": "v24",
-      "versionCode": 24,
+      "version": "v26",
+      "versionCode": 26,
       "author": "Kr328",
       "description": "Allow apps access clipboard in background.",
       "track": {
@@ -193,14 +193,21 @@
           "versionCode": 24,
           "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_clipboard_whitelist/v24_24.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_clipboard_whitelist/v24_24.md"
+        },
+        {
+          "timestamp": 1697947750.0,
+          "version": "v26",
+          "versionCode": 26,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_clipboard_whitelist/v26_26.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_clipboard_whitelist/v26_26.md"
         }
       ]
     },
     {
       "id": "zygisk_ifw_enhance",
       "name": "Zygisk - IFW Enhance",
-      "version": "v21",
-      "versionCode": 21,
+      "version": "v22",
+      "versionCode": 22,
       "author": "Kr328",
       "description": "Allows Intent Firewall to filter results of queryIntent(Activities/Services) APIs.",
       "track": {
@@ -219,6 +226,13 @@
           "versionCode": 21,
           "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_ifw_enhance/v21_21.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_ifw_enhance/v21_21.md"
+        },
+        {
+          "timestamp": 1697946303.0,
+          "version": "v22",
+          "versionCode": 22,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_ifw_enhance/v22_22.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisk_ifw_enhance/v22_22.md"
         }
       ]
     },
