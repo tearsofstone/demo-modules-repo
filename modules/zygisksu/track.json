@@ -1,11 +1,11 @@
 {
   "id": "zygisksu",
   "enable": true,
-  "update_to": "https://github.com/Dr-TSNG/ZygiskOnKernelSU/releases/download/v4-0.7.1/Zygisk-on-KernelSU-v4-0.7.1-89-release.zip",
+  "update_to": "https://api.nullptr.icu/android/zygisk-on-kernelsu/static/update.json",
   "license": "GPL-3.0",
   "source": "https://github.com/Dr-TSNG/ZygiskOnKernelSU.git",
   "support": "https://github.com/Dr-TSNG/ZygiskOnKernelSU/issues",
   "added": 1679025505.129431,
-  "last_update": 1687179483.0,
-  "versions": 2
+  "last_update": 1697909535.0,
+  "versions": 3
 }

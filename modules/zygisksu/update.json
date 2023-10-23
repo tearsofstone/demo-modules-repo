@@ -15,6 +15,13 @@
       "versionCode": 89,
       "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisksu/v4-0.7.1_89-release.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1697909535.0,
+      "version": "v4-0.8.0 (106-abbca19-release)",
+      "versionCode": 106,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisksu/v4-0.8.0_106-abbca19-release.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisksu/v4-0.8.0_106-abbca19-release.md"
     }
   ]
 }
