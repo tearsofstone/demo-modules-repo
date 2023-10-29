@@ -1,6 +1,6 @@
 {
-  "name": "Sanmer Magisk Repo",
-  "base_url": "https://ya0211.github.io/magisk-modules-repo/",
+  "name": "Sanmer Magisk Repo (demo)",
+  "base_url": "https://mrepoapp.github.io/demo-modules-repo/",
   "max_num": 3,
   "enable_log": true,
   "log_dir": "log"

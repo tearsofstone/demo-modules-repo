@@ -6,22 +6,22 @@
       "timestamp": 1679572814.0,
       "version": "v4-0.6.4 (73)",
       "versionCode": 73,
-      "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisksu/v4-0.6.4_(73)_73.zip",
+      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisksu/v4-0.6.4_(73)_73.zip",
       "changelog": ""
     },
     {
       "timestamp": 1687179483.0,
       "version": "v4-0.7.1 (89-release)",
       "versionCode": 89,
-      "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisksu/v4-0.7.1_89-release.zip",
+      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisksu/v4-0.7.1_89-release.zip",
       "changelog": ""
     },
     {
       "timestamp": 1697909535.0,
       "version": "v4-0.8.0 (106-abbca19-release)",
       "versionCode": 106,
-      "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/zygisksu/v4-0.8.0_106-abbca19-release.zip",
-      "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/zygisksu/v4-0.8.0_106-abbca19-release.md"
+      "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisksu/v4-0.8.0_106-abbca19-release.zip",
+      "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/zygisksu/v4-0.8.0_106-abbca19-release.md"
     }
   ]
 }
