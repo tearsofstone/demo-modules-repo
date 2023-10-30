@@ -2,16 +2,16 @@
   "name": "Sanmer Magisk Repo (demo)",
   "metadata": {
     "version": 1,
-    "timestamp": 1698613405.444788
+    "timestamp": 1698700192.722523
   },
   "modules": [
     {
       "id": "adb-ndk",
       "name": "ADB & Fastboot for Android NDK",
       "version": "1.0.41",
-      "versionCode": 104113,
+      "versionCode": 104114,
       "author": "osm0sis & Surge1223 @ xda-developers",
-      "description": "Static ARM adb and fastboot binaries for Android built with the NDK",
+      "description": "Static arm/arm64 adb and fastboot binaries for Android built with the NDK",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1679025505.129431,
@@ -22,13 +22,6 @@
         "donate": "https://github.com/sponsors/osm0sis"
       },
       "versions": [
-        {
-          "timestamp": 1686557746.0,
-          "version": "1.0.41",
-          "versionCode": 104111,
-          "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/adb-ndk/1.0.41_104111.zip",
-          "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/adb-ndk/1.0.41_104111.md"
-        },
         {
           "timestamp": 1693442224.0,
           "version": "1.0.41",
@@ -42,6 +35,13 @@
           "versionCode": 104113,
           "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/adb-ndk/1.0.41_104113.zip",
           "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/adb-ndk/1.0.41_104113.md"
+        },
+        {
+          "timestamp": 1698700191.0,
+          "version": "1.0.41",
+          "versionCode": 104114,
+          "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/adb-ndk/1.0.41_104114.zip",
+          "changelog": "https://mrepoapp.github.io/demo-modules-repo/modules/adb-ndk/1.0.41_104114.md"
         }
       ]
     },
